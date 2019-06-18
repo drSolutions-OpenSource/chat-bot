@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/diegomrodrigues/chat-bot.svg?branch=master)](https://travis-ci.org/diegomrodrigues/chat-bot)
+
 # Chat Bot
 
 Chat possuindo um Bot em Java, com uma interface desenvolvida no Swing, onde o usuário final, interage com o Bot que responde às mensagens e perguntas feitas.  
