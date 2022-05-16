@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/diegomrodrigues/chat-bot.svg?branch=master)](https://travis-ci.org/diegomrodrigues/chat-bot)
+[![Build Status](https://travis-ci.org/diegomrodrigues/chat-bot.svg?branch=master)](https://travis-ci.org/diegomrodrigues/chat-bot) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 # Chat Bot
 
@@ -50,7 +50,7 @@ As instruções abaixo irão te auxiliar para que você tenha uma cópia do **Ch
 
 1. Realize o download e instale [Open JDK 8](http://openjdk.java.net/install/), ou posterior.
 
-## Instalando
+## Instalação
 
 1. Realize o download do arquivo ZIP com o código-fonte do projeto (todas as plataformas)
 2. Descompacte o arquivo
@@ -62,11 +62,21 @@ As instruções abaixo irão te auxiliar para que você tenha uma cópia do **Ch
 2. Importe o projeto para sua IDE (Netbeans, Eclipse, IntelliJ)
 3. Execute /br/com/drsolutions/chatbot/ui/JanelaPrincipal.java
 
-# Autor
+# Contribuindo para este projeto
 
-**Diego Mendes Rodrigues** (São Paulo, Brasil)
+Este repositório é gerenciado pela drSolutions.
 
-Caso você precise de suporte para customização ou para uma licença comercial, fique a vontade para entrar em contato comigo.
+Você pode encontrar a informalção detalhada para contribuir [neste documento](CONTRIBUTING.md).
+
+# FAQ
+
+**Quem pode utilizar essa ferramenta?**
+
+Qualquer pessoa pode utilizar, basta possuir um servidor web, com o PHP instalado.
+
+**Quem pode contribuir?**
+
+Qualuer desenvolvedor pode contribuir, sendo muito bem-vindo! Caso queira contribuir, veja nosso Código de Conduta | [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
 
 # Licença
 
@@ -82,3 +92,5 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+<p align='center'><b>We are open source!</b></p>
